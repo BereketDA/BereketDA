@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**BereketDA/BereketDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Bereket! 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | Linux Enthusiast | Cybersecurity Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology, problem-solving, and building software that makes a difference.
+
+I'm developing my skills through hands-on projects, continuous learning, and exploring different areas of computer science.
+
+---
+
+### 🚀 What I'm Working On
+
+- 💻 Building practical software development skills
+- 🐧 Learning Linux and operating system administration
+- 🔐 Exploring cybersecurity and ethical hacking
+- 🌐 Developing web projects and exploring new technologies
+- 🔧 Improving my Git, GitHub, and development workflows
+
+### 🛠️ Technologies I'm Exploring
+
+- **Operating Systems:** Linux (Fedora, Rocky Linux)
+- **Development:** Python, Web Development
+- **Tools:** Git, GitHub, VirtualBox
+- **Interests:** Software Engineering, Cybersecurity, Open Source
+
+### 📂 My Learning Projects
+
+- [Linux Practice](https://github.com/BereketDA/Fedora-os-intro)
+- [Git Practice](https://github.com/BereketDA/git-extended)
+- [Web Development](https://github.com/BereketDA/BereketDA.github.io)
+
+### 🎯 My Goal
+
+To become a skilled software developer, contribute to meaningful projects, and build technology that solves real-world problems.
+
+---
+
+*"Learning, building, and improving — one commit at a time."*
